@@ -1,0 +1,12 @@
+# Exclude development files and directories
+__pycache__
+.git
+.vscode
+
+# Exclude build artifacts
+*.pyc
+*.log
+
+# Exclude temporary and cache files
+.DS_Store
+.cache

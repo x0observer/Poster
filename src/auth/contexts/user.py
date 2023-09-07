@@ -16,8 +16,12 @@ class UserCreate(SQLModel):
     password: str = Field(max_length=255)
     
 
+
 class UserReadable(Readable, UserBase):
     pass
+
+
+
 
 
 class ActiveUser(SQLModel):
