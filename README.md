@@ -25,8 +25,9 @@
 Создайте файл или используйте готовое окружение .env в корневой директории проекта.
 
 3. **Соберите и запустите Docker-контейнеры**:
-- docker-compose build
-- docker-compose up -d
+   ```bash
+   docker-compose build
+   docker-compose up -d
 Это создаст Docker-образы и запустит контейнеры в фоновом режиме.
 
 Приложение доступно по адресу: http://localhost:9999
