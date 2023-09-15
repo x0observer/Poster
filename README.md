@@ -37,4 +37,4 @@
 
 ## Пакеты и структура файлов
 Предоставляется удобный инструмент для структурирования вашего приложения, сохраняя при этом всю гибкость.
-<img width="639" alt="image" src="https://github.com/x0observer/Poster/assets/106298051/d56acc5a-ec74-4f47-959f-ef013484305d">
+<img width="907" alt="image" src="https://github.com/x0observer/Poster/assets/106298051/d56acc5a-ec74-4f47-959f-ef013484305d">
