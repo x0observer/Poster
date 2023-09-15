@@ -35,3 +35,5 @@
 - Вход осуществляется через "Authorization", по запросу /login/ получим ключ входа для последующего взаимодействие с системой
 <img width="907" alt="image" src="https://github.com/x0observer/Poster/assets/106298051/d84abd7a-d372-4e73-bfee-c398436e5cbb">
 
+## Пакеты и структура файлов
+<img width="639" alt="image" src="https://github.com/x0observer/Poster/assets/106298051/d56acc5a-ec74-4f47-959f-ef013484305d">
